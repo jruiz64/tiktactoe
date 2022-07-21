@@ -1,1 +1,1 @@
-# tiktactoe
+I would like stylize the board with something more complex. Add a modal any time we have a winner or cat's game with a start new game button. Possibly update x's and o's with something differ. 
